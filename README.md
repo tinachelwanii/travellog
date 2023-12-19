@@ -20,10 +20,6 @@
 *** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
-
-
-
-<!-- PROJECT LOGO -->
 <br />
 <p align="center">
   <a href="https://github.com/sn2606/TravelLog">
@@ -130,9 +126,6 @@ Contributions are what make the open source community such an amazing place to b
 
 Tina Chelwani - [@LinkedIn](https://www.linkedin.com/in/tina-c-8bb772223/) - chelwanit13@gmail.com
 
-Project Link: [https://github.com/sn2606/TravelLog](https://github.com/tinachelwanii/travellog)
+Project Link: [https://github.com/tinachelwanii/travellog](https://github.com/tinachelwanii/travellog)
 
 
-
-<!-- MARKDOWN LINKS & IMAGES -->
-<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
