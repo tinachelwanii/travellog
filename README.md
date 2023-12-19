@@ -20,11 +20,6 @@
 *** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
-[![Contributors][contributors-shield]][contributors-url]
-[![MIT License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
-[![Stars][stars-shield]][stars-url]
-[![Forks][forks-shield]][forks-url]
 
 
 
@@ -80,13 +75,6 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-
-[![Product Name Screen Shot]](https://example.com)
-
-
-![product-screenshot]
-
-
 ### Built With
 
 * [HTML, CSS, JavaScript, PHP, MySQL]()
@@ -140,25 +128,11 @@ Contributions are what make the open source community such an amazing place to b
 <!-- CONTACT -->
 ## Contact
 
-Swaranjana Nayak - [@LinkedIn](https://www.linkedin.com/in/swaranjana-nayak/) - swaranjananayak@gmail.com
+Tina Chelwani - [@LinkedIn](https://www.linkedin.com/in/tina-c-8bb772223/) - chelwanit13@gmail.com
 
-Project Link: [https://github.com/sn2606/TravelLog](https://github.com/sn2606/TravelLog)
+Project Link: [https://github.com/sn2606/TravelLog](https://github.com/tinachelwanii/travellog)
 
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/sn2606/TravelLog.svg?style=for-the-badge
-[contributors-url]: https://github.com/sn2606/TravelLog/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/sn2606/TravelLog.svg?style=for-the-badge
-[forks-url]: https://github.com/sn2606/TravelLog/network/members
-[stars-shield]: https://img.shields.io/github/stars/sn2606/TravelLog.svg?style=for-the-badge
-[stars-url]: https://github.com/sn2606/TravelLog/stargazers
-[issues-shield]: https://img.shields.io/github/issues/sn2606/TravelLog.svg?style=for-the-badge
-[issues-url]: https://github.com/sn2606/TravelLog/issues
-[license-shield]: https://img.shields.io/github/license/sn2606/TravelLog.svg?style=for-the-badge
-[license-url]: https://github.com/sn2606/TravelLog/blob/master/LICENSE.txt
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://www.linkedin.com/in/swaranjana-nayak/
-[Product Name Screen Shot]: Images/Landing-Page-SS.png
-[product-screenshot]: Images/about-us-rec.gif
