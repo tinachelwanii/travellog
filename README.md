@@ -1,25 +1,4 @@
-<!--
-*** Thanks for checking out the Best-README-Template. If you have a suggestion
-*** that would make this better, please fork the TravelLog and create a pull request
-*** or simply open an issue with the tag "enhancement".
-*** Thanks again! Now go create something AMAZING! :D
-***
-***
-***
-*** To avoid retyping too much info. Do a search and replace for the following:
-*** sn2606, TravelLog, LinkedIn, swaranjananayak@gmail.com, TravelLog, Social Network website for sharing travel experiences & travel micro-blogging.
--->
 
-
-
-<!-- PROJECT SHIELDS -->
-<!--
-*** I'm using markdown "reference style" links for readability.
-*** Reference links are enclosed in brackets [ ] instead of parentheses ( ).
-*** See the bottom of this document for the declaration of the reference variables
-*** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
-*** https://www.markdownguide.org/basic-syntax/#reference-style-links
--->
 <br />
 <p align="center">
   <a href="https://github.com/sn2606/TravelLog">
@@ -34,10 +13,6 @@
     <!-- <a href="https://github.com/sn2606/TravelLog"><strong>Explore the docs »</strong></a> -->
     <br />
     <!-- <br /> -->
-    <!-- <a href="https://github.com/sn2606/TravelLog">View Demo</a> -->
-    ·
-    ·
-    <!-- <a href="https://github.com/sn2606/TravelLog/issues">Request Feature</a> -->
   </p>
 </p>
 
@@ -95,7 +70,7 @@ To get a local copy up and running follow these simple steps.
 
 1. Start XAMPP and open phpMyAdmin on browser.
 2. Create a new database for the project and name it "travellog"
-3. Import the [Database](https://github.com/sn2606/TravelLog/blob/master/Database/travellog.sql)
+3. Import the [Database]
 4. Clone the repository in any folder and name folder as per choice.
     ```
     git clone git@github.com:sn2606/TravelLog.git your-folder-name
